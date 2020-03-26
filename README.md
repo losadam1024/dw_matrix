@@ -1,2 +1,6 @@
-# dw_matrix
-Projekt transformacja czyli matrix - poznaj reguły gry
+# Projekt transformacja czyli Matrix - poznaj reguły gry
+
+Tu pojawi się 5 dni z projektu transformacji
+- a
+- b
+- c
